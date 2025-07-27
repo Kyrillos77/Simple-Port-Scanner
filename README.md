@@ -1,4 +1,4 @@
-# Simple TCP Port Scanner
+# Simple Port Scanner
 
 A lightweight Python script for scanning open TCP ports on a target IP address.
 
