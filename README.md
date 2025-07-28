@@ -15,4 +15,5 @@ A lightweight Python script for scanning open ports on a target IP address.
 
 ## Usage
 
+```bash
 python port_scanner.py <target-ip>
